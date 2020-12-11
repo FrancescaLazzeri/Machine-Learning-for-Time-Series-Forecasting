@@ -1,0 +1,9 @@
+*.log
+*.pkl
+config.json
+data/*
+Notebooks/data/*
+.ipynb_checkpoints
+.azureml
+__pycache__
+.vscode
